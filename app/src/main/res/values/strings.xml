@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberLocationDemo</string>
+    <string name="location">获取归属地</string>
+</resources>
